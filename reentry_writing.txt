@@ -1,1 +1,40 @@
 Both trajectories involve significant aerocapture maneuvers where the Starship enters the upper atmosphere of Earth or Mars and uses atmospheric drag to deaccelerate from a hyperbolic trajectory that (at periapsis) moves faster than the respective planet's escape velocity to an elliptical captured orbit. At hyperbolic trajectories around planets have a lower curvature than captured orbits, the amount of time spent in the atmosphere is not long without other involved forces. In our proposed Earth return trajectory, the spacecraft spends 103 seconds under 120km altitude if the effects of atmospheric drag and lift are ignored. As 1.5km/s of de-acceleration is needed, this would require an average of 1G of de-acceleration which is significant considering the large altitude variations during this trajectory. 
+
+As outlined, the crew Starship launches into low mars orbit, and is then refueled. Each tanker can bring 300 tonnes if the Mars ascent DV is 4800m/s thus 4-5 refuel trips are necessary to fully fuel it. There is only one advisable 90 day return window, 2035-07-02 with a 4.32km/s ejection from low Mars orbit. There are return windows in Summer and Autumn of 2037, but trajectories that take 90 days such as ejection on 2037-08-31 with 5.87km/s of DV lead to unreasonably high Earth entry velocities - even with a deaccleration burn, the Starship would hit 14.1km/s at periapsis. This has twice as much velocity as Earth entry, thus four times the energy and eight times the heating, which is likely not survivable. We recommend a 104 day trajectory with Mars ejection on 2037-08-23 and arrival at Earth on 2037-12-05, where post-deceleration burn, the Starship will be moving at 11.86km/s at periapsis. This is much closer to lunar reentry/hohmann Mars transfer velocities\cite{nasa_apollo11_entry} and thus closer to what Starship was designed to survive\cite{spacex_human_spaceflight_moon}. 
+16080 empty
+13396kg at takeoff
+8709kg in 120km orb
+isp is 25962
+, except for 25 year old female astronauts on the 2035-37 trajectory. 35 year old women are safe to go however. 
+
+pre trakeoff dv 29871
+vertically to 400m, then keep 30 degrees until apoapsis reaches 60km, then go to 5
+dv 26055 in orbit
+
+
+Shortening the transit time to Mars has significant benefits for Mars mission planning. Traditional mission planning with expendable chemical rockets requires low energy transits that take 6-9 months\cite{nasa_sp_2009_566}. Travelling in deep space poses significant health risks\cite{patel2020red_risks} and thus reducing the time spent off the surface of a planet is a top priority. 
+
+While many advocate for advanced, unflown propulsion concepts (e.g., nuclear thermal or nuclear electric\cite{chang_diaz_vasimr_2013}), we show here that significantly faster transits can be achieved with existing chemical rocketry technology that has already successfully flown to space.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
