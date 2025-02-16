@@ -1,0 +1,18 @@
+-motivation - pretty much done, currently placed in intro
+-methods, perhaps must be on its own, describing the DV of Starship calculation, and a bit more about the poliastro lambert solver, along with how I did the aerocapture simulation
+-----cowell propagator perhaps needs a bit better understanding (?)- why isn't it just numerical integration
+-
+
+-porkchop
+The Delta-V for 5 day timesteps in both departure date and time of flight in the 2030s is plotted in two Porkchop plots below [fig] [fig]
+Red colors indicate more energetically favorable transits - Starship generally can only operate in the red-green regime. 
+
+-DV of Starship
+The DV of fully fueled Starship is given by the rocket equation, though this function is heavily dependent on currently unknown specifications. The vacuum ISP of the raptor engine is known at 380s, but both the wet and dry mass of Starship are likely to fluctuate between 2025 and the mid 2030s[starship update 24].
+With the exhaust velocity of the raptor engine defined as $v_e = g\cdot isp$, the wet mass as $wM$ and the dry mass as $dM$, the Delta V
+of the fully fueled Starship is: 
+$$
+\Delta V = v_e \cdot log(\frac{wM}{dM})
+$$
+
+
