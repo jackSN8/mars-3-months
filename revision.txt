@@ -3,15 +3,18 @@ Things to be done before paper is over the line:
 --low isp, high isp cases for heat flux during entry, and acceleration during the worst earth and worst mars entries
 
 ?current idea reentry sim FIGs
-Fig A: Reentry Accelerations for 4 EM cases (33, 35, 370 & 380)
+Fig A: Reentry Accelerations for 4 EM cases (33 380, 33 70, 35 380 & 37 370)
 Fig B: Reentry Fluxs for 4 EM cases (33, 35, 370 & 380)
 Fig C: Reentry Accelerations for 4 ME cases (35, 37, 370 & 380)
 Fig D: Reentry Fluxs for 4 ME cases (35, 37, 370 & 380)
 Fig E: Post Aerocapture orbit EM 33
 Fig f: Post Aerocapture orbit ME 35
+Fig G: Alt Velocity Profile EM 33 370
+Fig H: Alt Velocity Profile ME 37 370
 
 
-
+https://nebula.esa.int/sites/default/files/neb_study/995/C21735ExS.pdf  FLUXS DURING EARTH REENTRY
+https://ntrs.nasa.gov/api/citations/20240002574/downloads/2574-TM-TUFROC-2024.pdf TUFROC MAX TEMP
 
 
 
