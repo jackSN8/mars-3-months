@@ -16,6 +16,15 @@ Fig H: Alt Velocity Profile ME 37 370
 https://nebula.esa.int/sites/default/files/neb_study/995/C21735ExS.pdf  FLUXS DURING EARTH REENTRY
 https://ntrs.nasa.gov/api/citations/20240002574/downloads/2574-TM-TUFROC-2024.pdf TUFROC MAX TEMP
 
+https://cdn.techscience.cn/files/fdmp/2013/v9n4/fdmp.2013.009.461.pdf USE OF SUTTON GRAVES
+https://descanso.jpl.nasa.gov/propagation/mars/MarsPub_sec3.pdf MARS ATM
+
+
+
+
+NOTE:
+-The graphs I have of Soyuz entries in Mars_3months/assets are a bit outdated - changed Sutton graves after r_curvature was missing
+-I've changed the TPS analog to TUFI. TUFI is a better analog bc microscope anylsis shows recovered tiles are similar. 
 
 
 -more discussion on radiation, and contrast to existing NASA plans

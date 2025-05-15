@@ -5,7 +5,7 @@
 
 -porkchop
 The Delta-V for 5 day timesteps in both departure date and time of flight in the 2030s is plotted in two Porkchop plots below [fig] [fig]
-Red colors indicate more energetically favorable transits - Starship generally can only operate in the red-green regime. 
+Red colors indicate more energetically favorable transits - Starship generally can only operate in the red-green regime. Black areas indicate trajectories impractical for Starship.  
 
 -DV of Starship
 The DV of fully fueled Starship is given by the rocket equation, though this function is heavily dependent on currently unknown specifications. The vacuum ISP of the raptor engine is known at 380s, but both the wet and dry mass of Starship are likely to fluctuate between 2025 and the mid 2030s[starship update 24].

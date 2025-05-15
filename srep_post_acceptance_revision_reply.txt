@@ -1,0 +1,19 @@
+Dear Dr Bultitude
+I appreciate the quick response and I apologize for certain citation mistakes I made that have been correctly pointed out here. 
+
+The referenced FAA document that describes the design of the Starship fuel tanks was an incorrect FAA document link, and the correct one is linked here. Figure 9 is reproduced from said document. Under 17 U.S.C. § 105 I believe the FAA document is in public domain and the figures are available for reproduction by Scientific Reports.
+The actual dry mass of current orbital Starship prototypes is not publicly known, thus statements by SpaceX figures along with estimates using known components are the best estimates we have. Reference 16 includes a claim by Musk that an earlier prototype masses around 100t. 100t also squares fairly well with the estimates made in reference 26 (About feasibility of SpaceX's human exploration Mars mission scenario with Starship) when the components mentioned in Appendix A are removed. In detail that is the sum of the mass of the meteorite shielding, the structure, the heat shield, the solar arrays, the batteries, other power components, the main engines and the RCS thrusters.
+In detail, the removed parts are the radiation shielding, environment control hardware, payload mass, main tank mass, helium tank mass and margin.
+
+ This comes out to 98.6t. I am happy to add some clarification to the paper on this topic. 
+
+Reference 52 is a clip combining content from 44 minutes onwards https://www.youtube.com/watch?v=t705r8ICkRw and 2 minutes 45 seconds onwards in https://www.youtube.com/watch?v=3Ux6B3bvO0w
+
+
+This https://ntrs.nasa.gov/api/citations/19730025070/downloads/19730025070.pdf citation supports the mass of Skylab with a docked CSM as 90t and this supports a LEO bound CSM as 14thttps://georgetyson.com/files/apollostatistics.pdf thus Skylab w/o the CSM is 76t.
+
+The sentence on mass margin should be removed to avoid confusion. 
+
+
+
+
