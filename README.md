@@ -1,2 +1,7 @@
 # mars-3-months
-This is the code used to calculate estimates for various important things for Starship Mars mission described at:https://www.nature.com/articles/s41598-025-00565-7. I should organize it properly at some point. The main files of note are hyperbolic-earth-entry.ipynb and general_trajectory.ipynb in the trajectories folder. The general trajectory file is a generic lambert solver for any planet, calculating departure and arrival C3, along with optional de-acceleration burn upon arrival. This code will not run except on python 3.9 with the appropiate poliastro installation (dec 2020 - something like https://github.com/poliastro/poliastro/tree/a46a4b3f4493b89179b29f46c7ef3f7505c8a1c5). Might just be Poliastro 0.14 and required dependancies. 
+This is the code used to calculate estimates for various important things for Starship Mars mission described at:https://www.nature.com/articles/s41598-025-00565-7. I should organize it properly at some point. The main files of note are hyperbolic-earth-entry.ipynb and general_trajectory.ipynb in the trajectories folder. The general trajectory file is a generic lambert solver for any planet, calculating departure and arrival C3, along with optional de-acceleration burn upon arrival. This code will not run except on python 3.9 with the appropiate poliastro installation (dec 2020 - something like https://github.com/poliastro/poliastro/tree/a46a4b3f4493b89179b29f46c7ef3f7505c8a1c5). 
+
+Poliastro 0.14 and required dependancies. 
+-numpy 1.26.0
+-matplotlib 3.3.0
+
